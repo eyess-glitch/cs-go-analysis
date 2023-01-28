@@ -11,11 +11,11 @@ This repository contains the source code of a university project for "Data minin
   
 Different models have been considered, some of which are:
 
-  Decision trees
-  naive bayes classifiers
-  Random forest
-  artificial neural networks
-  SVM with SGD optimizer
-  XGBoost
+  1. Decision trees
+  2. naive bayes classifiers
+  3. Random forest
+  4. artificial neural networks
+  5. SVM with SGD optimizer
+  6. XGBoost
  
 To each model was applied a phase of hyperparameter tuning.
