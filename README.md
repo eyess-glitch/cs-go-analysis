@@ -3,11 +3,11 @@
 
 This repository contains the source code of a university project for "Data mining" course. The task of the projet, related to CS-GO, is to predict which team will win the round. The project includes the various phases of the CRISP-DM methodology, such as:
 
-  Business Understanding  
-  Data understanding
-  Data preprocessing
-  Modeling
-  Model evaluation
+  1. Business Understanding  
+  2. Data understanding
+  3. Data preprocessing
+  4. Modeling
+  5. Model evaluation
   
 Different models have been considered, some of which are:
 
